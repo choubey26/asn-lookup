@@ -1,0 +1,6 @@
+ASN,Session,Timestamp,Client IP Block,ASN,Country,NAT,Outbound Private Status,Outbound Routable Status,Adj Spoof,Prefix Len,Results
+133676,"spoofer.caida.org"
+148311,"spoofer.caida.org"
+55836,"spoofer.caida.org"
+58640,"spoofer.caida.org"
+59196,"fromIndex(1) > toIndex(0)"
